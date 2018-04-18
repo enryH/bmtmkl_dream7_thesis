@@ -1,0 +1,17 @@
+load("data/pathway_raw.Rdata")
+###################################################################################################
+View(dream7.ExomeSeq.pathway.Reactome)
+View(dream7.ExomeSeq.pathway.OrgHsEg)
+###
+View(dream7.GeneExpression.pathway.Reactome)
+View(dream7.GeneExpression.pathway.OrgHsEg)
+###
+View(dream7.CNV.pathway.Reactome)
+View(dream7.CNV.pathway.OrgHsEg)
+###
+View(dream7.Methylation.pathway.Reactome)
+View(dream7.Methylation.pathway.OrgHsEg)
+###
+View(dream7.RNAseq.pathway.Reactome)
+View(dream7.RNAseq.pathway.OrgHsEg)
+###
